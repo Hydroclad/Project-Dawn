@@ -1,0 +1,35 @@
+
+state={
+	id=107
+	name="STATE_107"
+	manpower = -1
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = DOQ
+		buildings = {
+			infrastructure = 1
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = DOQ
+	}
+
+	provinces={
+		2528 2529 2530 2531 2532 2533 2534 2535 2536 2537 2538 2539 2540 2541 2542 2543 2544 2545 2546 2547 2548 2549 2550 2551 2552 2553 
+	}
+	local_supplies=0.0 
+}
