@@ -1,0 +1,35 @@
+
+state={
+	id=177
+	name="STATE_177"
+	manpower = -1
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FEI
+		buildings = {
+			infrastructure = 1
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = FEI
+	}
+
+	provinces={
+		4362 4363 4364 4365 4366 4367 4368 4369 4370 4371 4372 
+	}
+	local_supplies=0.0 
+}
