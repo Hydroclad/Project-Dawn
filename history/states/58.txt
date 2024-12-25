@@ -1,0 +1,35 @@
+
+state={
+	id=58
+	name="STATE_58"
+	manpower = -1
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ROR
+		buildings = {
+			infrastructure = 5
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ROR
+	}
+
+	provinces={
+		1280 1281 1282 1283 1284 1285 1286 1287 1288 
+	}
+	local_supplies=0.0 
+}
