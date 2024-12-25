@@ -1,0 +1,35 @@
+
+state={
+	id=495
+	name="STATE_495"
+	manpower = -1
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UPP
+		buildings = {
+			infrastructure = 1
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = UPP
+	}
+
+	provinces={
+		12679 12680 12681 12682 12683 12684 12685 12686 12687 12688 12689 
+	}
+	local_supplies=0.0 
+}

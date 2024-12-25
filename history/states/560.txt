@@ -1,0 +1,34 @@
+
+state={
+	id=560
+	name="STATE_560"
+	manpower = 6929627
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=11
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = QUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 4
+			
+			
+		}
+		add_core_of = QUU
+	}
+
+	provinces={
+		2190 3357 3577 3595 3951 4032 4095 
+	}
+	local_supplies=0.0 
+}
