@@ -1,0 +1,34 @@
+
+state={
+	id=634
+	name="STATE_634"
+	manpower = 3175574
+	
+	state_category = rural
+	resources={
+		aluminium=8
+		chromium=0
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=2
+	}
+
+	history={
+		owner = QUU
+		buildings = {
+			infrastructure = 1
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = QUU
+	}
+
+	provinces={
+		1527 2097 3040 3196 4265 
+	}
+	local_supplies=0.0 
+}

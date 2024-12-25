@@ -1,0 +1,34 @@
+
+state={
+	id=633
+	name="STATE_633"
+	manpower = 7483876
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=15
+		tungsten=0
+	}
+
+	history={
+		owner = QUU
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = QUU
+	}
+
+	provinces={
+		3034 3155 3174 3546 3851 
+	}
+	local_supplies=0.0 
+}

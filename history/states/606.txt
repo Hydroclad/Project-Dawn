@@ -1,0 +1,34 @@
+
+state={
+	id=606
+	name="STATE_606"
+	manpower = 4552111
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=19
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = QUU
+		buildings = {
+			infrastructure = 1
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = QUU
+	}
+
+	provinces={
+		1218 1246 1383 1921 3365 3586 3750 4076 
+	}
+	local_supplies=0.0 
+}

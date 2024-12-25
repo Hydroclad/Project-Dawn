@@ -1,0 +1,34 @@
+
+state={
+	id=611
+	name="STATE_611"
+	manpower = 5235079
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = QUU
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = QUU
+	}
+
+	provinces={
+		1842 2279 2661 3074 3178 3216 3796 
+	}
+	local_supplies=0.0 
+}
