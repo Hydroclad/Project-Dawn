@@ -1,0 +1,35 @@
+
+state={
+	id=346
+	name="STATE_346"
+	manpower = -1
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FRO
+		buildings = {
+			infrastructure = 1
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = FRO
+	}
+
+	provinces={
+		8881 8882 8883 8884 8885 8886 8887 8888 8889 8890 8891 8892 8893 
+	}
+	local_supplies=0.0 
+}
